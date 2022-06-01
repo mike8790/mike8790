@@ -1,5 +1,5 @@
 - Hi, I’m @mike8790
-- 
+
 - 🔬 I am a former Neuroscience researcher with almost a decade of experience working in research (including my PhD). 
 - 👀 I am looking for new oppurtunities outside of academia, in particular as a data-analyst/ data-scientist.
 - 👨‍🎓 I’m currently expanding and strengthening my experience with common data-analytic/ data-science tools. Especially Python and SQL.
